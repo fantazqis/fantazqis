@@ -2,7 +2,7 @@
 <h3 align="center">A passionate QA Automation From Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Selenium Webdriver, Java, Cucumber and Gherkin**
+- 🌱 I’m currently learning **Selenium Webdriver, Java, TestNG, Cucumber and Gherkin**
 
 - 👨‍💻 All of my projects are available at [https://my-portofolio-seven-umber.vercel.app/](https://my-portofolio-seven-umber.vercel.app/)
 
