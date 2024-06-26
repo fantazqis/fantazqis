@@ -4,11 +4,11 @@
 
 - 🌱 I’m currently learning **Selenium Webdriver, Java, TestNG, Cucumber and Gherkin**
 
-- 👨‍💻 All of my projects are available at [https://my-portofolio-seven-umber.vercel.app/](https://my-portofolio-seven-umber.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Github Repo](https://github.com/fantazqis?tab=repositories)
 
 - 📫 How to reach me **fantazqis1909@gmail.com**
 
-- 📄 Know about my experiences [https://my-portofolio-seven-umber.vercel.app/assets/CV_Muhammad_Irfan_Syaifur_Rizal_Wiratama_newest.pdf](https://my-portofolio-seven-umber.vercel.app/assets/CV_Muhammad_Irfan_Syaifur_Rizal_Wiratama_newest.pdf)
+- 📄 Know about my experiences at [My Portofolio Web](https://my-portofolio-seven-umber.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
