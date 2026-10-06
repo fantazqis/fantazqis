@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fantazqis1909@gmail.com**
 
-- 📄 Know about my experiences at [My Portofolio Web](https://my-portofolio-seven-umber.vercel.app/)
+- 📄 Know about my experiences at [My Portofolio Web](https://portofolio-web-chi-orcin.vercel.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
